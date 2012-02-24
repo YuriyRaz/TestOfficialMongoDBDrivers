@@ -1,0 +1,6 @@
+
+*.suo
+/TestOfficialMongoDBDrivers/bin
+/TestOfficialMongoDBDrivers/obj
+*.user
+/_ReSharper.TestOfficialMongoDBDrivers
